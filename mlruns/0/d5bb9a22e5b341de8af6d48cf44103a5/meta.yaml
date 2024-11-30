@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d5bb9a22e5b341de8af6d48cf44103a5/artifacts
+end_time: 1732962135904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5bb9a22e5b341de8af6d48cf44103a5
+run_name: respected-cat-540
+run_uuid: d5bb9a22e5b341de8af6d48cf44103a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732961830895
+status: 4
+tags: []
+user_id: DHAIVAT

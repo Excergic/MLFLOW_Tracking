@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f1ee4c52f1d84e03b714fa8a81cd2dca/artifacts
+end_time: 1732961775528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1ee4c52f1d84e03b714fa8a81cd2dca
+run_name: fun-dolphin-916
+run_uuid: f1ee4c52f1d84e03b714fa8a81cd2dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732961490148
+status: 4
+tags: []
+user_id: DHAIVAT

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1732962769790
+current_stage: None
+description: ''
+last_updated_timestamp: 1732962769790
+name: Best Ramdom Forest Model
+run_id: e24f40429a8c4dc18d15c5940ac1dfec
+run_link: ''
+source: mlflow-artifacts:/0/e24f40429a8c4dc18d15c5940ac1dfec/artifacts/Model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/e24f40429a8c4dc18d15c5940ac1dfec/artifacts/Model
+user_id: null
+version: 1
